@@ -1,8 +1,10 @@
-# Hi, I'm Tolga Ersoy 👋
+# Hi, I'm Tolga ERSOY 👋
 
-I'm a Backend Software Developer with 1+ years of professional experience building enterprise backend applications with C# and .NET.
+I'm a .NET Backend Developer with 1+ years of professional experience.
 
-I build reliable backend applications with a focus on clean architecture, scalable system design, and high-performance SQL. I enjoy solving complex backend problems and writing clean, maintainable code.
+I develop backend applications using C#, .NET, and relational databases. I build RESTful APIs, design database structures, write and optimize SQL queries, and improve application performance.
+
+I focus on writing clean, reliable, and maintainable code.
 
 ## 🛠️ Technologies
 
@@ -15,32 +17,18 @@ I build reliable backend applications with a focus on clean architecture, scalab
 - Docker
 - Git
 
-## 🎯 Core Expertise
+## 💻 What I Do
 
-- Backend Application Development
-- RESTful API Design & Development
-- SQL Query Design & Optimization
-- Relational Database Design
-- Software Architecture
-- Clean Architecture
-- CQRS & MediatR
-- Performance Optimization
-
-## 💼 Professional Experience
-
-### Enterprise Order Management System
-
-Built and delivered an end-to-end order management module within an enterprise CRM platform, taking the project from development to production.
-
-### Financial Reporting Platform
-
-Developed backend services for a financial reporting platform that enables management to monitor sales and business performance. Designed and optimized complex SQL queries to improve reporting speed and reliability.
-
-### Reporting Infrastructure Migration
-
-Designed and built a new PostgreSQL-based reporting infrastructure by replacing the existing CRM data layer. Reimplemented business logic, rewrote SQL queries, and improved the system's performance, scalability, and maintainability.
+- Develop backend applications with C# and .NET
+- Design and build RESTful APIs
+- Design relational databases
+- Write and optimize SQL queries
+- Improve application performance
+- Apply Clean Architecture principles
+- Work with CQRS and MediatR
+- Containerize applications with Docker
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/tolga-ersoy
-- Email: tolgaersoy.dev@gmail.com
+- LinkedIn: [linkedin.com/in/tolga-ersoy](https://www.linkedin.com/in/tolga-ersoy)
+- Email: [tolgaersoy.dev@gmail.com](mailto:tolgaersoy.dev@gmail.com)
